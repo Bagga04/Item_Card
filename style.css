@@ -1,0 +1,246 @@
+body{
+
+}
+.sort{
+  display: flex;
+  align-items: center;
+  margin-left: 750px;
+}
+.SortBy{
+  padding: 5px;
+  color: black;
+  font-weight: bold;
+}
+.Course_Fee{
+  padding: 5px;
+  color: orange;
+}
+.dropdown{
+width:25px;
+text-align: center;
+padding: 5px;
+background-color:#D3DDE1;
+}
+/*/* Dropdown Button
+.dropbtn {
+  width: 150px;
+  height: 30px;
+  outline: none;
+  border-radius: 48px;
+  text-transform: uppercase;
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  margin: 10px 0;
+  align-items: center;
+}
+.v{
+  padding: 5px;
+margin-top: -11px;
+}
+
+/* The container <div> - needed to position the dropdown content
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 900px;
+
+}
+
+/* Dropdown Content (Hidden by Default)
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown
+.dropdown:hover .dropbtn {background-color: #3e8e41;}*/
+
+.views{
+  margin-left: 320px;
+  margin-top: 700px;
+  margin-bottom: -40px;
+  font-weight: bold;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 730px;
+  height:264px;
+  margin-left: 300px;
+  margin-top: 0px;
+  background-color: #F7F7F7;
+  display: flex;
+}
+img{
+    margin-top: 90px;
+    margin-left: 10px;
+    height: 2cm;
+    width: 6cm;
+}
+.box{
+  display: flex;
+  position: absolute;
+  width: 93px;
+  height: 36px;
+  margin-left: 30px;
+  margin-top: 23px;
+  background-colour:;
+  border-radius: 25px;
+  background-color:#FFEFD6;
+  text-align: center;
+}
+.box p{
+  padding: 0;
+  margin-left: 20px;
+  margin-top: 10px;
+  color: orange;
+}
+.box p span{
+  color: #FFEFD6;
+}
+.box p i{
+  color: black;
+}
+
+.profile-main{
+  align-items:left;
+}
+.line1{
+  display: flex;
+  align-items: center;
+  }
+  .line1 h2,.masters{
+    padding: 10px;
+    font-size: 20px;
+  }
+  .line1 p{
+    padding: 5px;
+    background-color: #D3DDE1;
+    border-radius: 25px;
+    text-align:center;
+    width: 2cm;
+  }
+  .masters{
+    font-size: 15px;
+    margin: 5px;
+}
+.line2{
+  display: flex;
+  background-color: ;
+  align-items: center;
+  padding: 2px;
+  margin: 50px;
+  margin-top:-40px;
+  border: 5px;
+}
+.bar.public{
+  text-decoration-color:#CDCDCD;
+}
+.bar{
+  padding: 10px;
+}
+.line2 h3.public{
+  font-size:
+  margin-right: 8px;
+}
+.line3{
+  margin-top: -70px;
+  margin-left: -20px;
+  align-items: center;
+  display:flex;
+  background-color: ;
+}
+.CourseFee{
+  list-style: none;
+  padding-left: :30px;
+  padding-right: :30px;
+}
+.ApplicationFee{
+  list-style: none;
+  padding-left: :30px;
+  padding-right: :30px;
+}
+.NextInTake{
+  list-style: none;
+  padding-left: :30px;
+  padding-right: :30px;
+}
+.bar1{
+  padding: 10px;
+  margin-top: 15px;
+   font-size: 25px;
+}
+.line4{
+  display: flex;
+
+  margin-left: 50px;
+  margin-top: -15px;
+}
+.IELTS{
+  list-style: none;
+  padding: 5px;
+}
+.GRE{
+  list-style: none;
+  padding: 5px;
+}
+.TOEFL{
+  list-style: none;
+  padding: 5px;
+}
+.GMAT{
+  list-style: none;
+  padding: 5px;
+}
+.exam{
+  color: orange;
+  font-weight: bold;
+}
+.fee{
+  color: orange;
+  font-weight: bold;
+}
+button{
+  width: 100px;
+  height: 25px;
+  border-radius: 25px;
+  border-style: none;
+  margin-top: 0px;
+  margin: 5px;
+background-color:orange;
+}
+.buttons{
+  display: flex;
+  margin-left: 270px;
+  margin-top: -10px;
+  margin-right: 20px;
+}
+.Enquire{
+  background-color: #FFEFD6;
+  color: orange;
+}
+.Intrested{
+  background-color: orange;
+  color: #FFEFD6;
+}
